@@ -1,0 +1,33 @@
+.accordion-item{
+    font-size: 15px;
+    border: 1px solid #dee2de;
+}
+
+.accordion-item div button {
+    text-decoration: none;
+    position: relative;
+}
+
+.accordion-item div button:hover {
+    text-decoration: none;
+}
+
+.accordion-item div button.collapsed:hover {
+    text-decoration: none;
+}
+
+.accordion-button{
+    color: black !important ;
+    background-color: white !important ;
+    border: none !important ;
+}
+
+.accordion-button:not(.collapsed){
+    color: black !important ;
+    background-color: white !important ;
+    border: none !important ;
+}
+
+.accordion-button:focus{
+    border-color: white !important ; 
+}

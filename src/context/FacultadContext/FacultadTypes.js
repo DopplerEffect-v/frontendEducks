@@ -1,0 +1,6 @@
+//Funciones de Facultades
+export const FETCH_FACULTADES = "FETCH_FACULTADES";
+export const FETCH_FACULTAD = "FETCH_FACULTAD";
+export const CLEAN_FACULTAD = "CLEAN_FACULTAD";
+export const BUSCAR_FACULTADES = "BUSCAR_FACULTADES";
+export const VERIFY_SIGLAS = "VERIFY_SIGLAS";

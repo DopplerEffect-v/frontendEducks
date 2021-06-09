@@ -1,0 +1,5 @@
+//Funciones de Programas
+export const FETCH_PROGRAMAS = "FETCH_PROGRAMAS";
+export const FETCH_PROGRAMA = "FETCH_PROGRAMA";
+export const CLEAN_PROGRAMA = "CLEAN_PROGRAMA";
+export const BUSCAR_PROGRAMAS = "BUSCAR_PROGRAMAS";

@@ -1,0 +1,20 @@
+#pato{
+    height: 70%;
+    width: 30%;
+    -webkit-animation: 3s move linear infinite;
+    animation: 3s move linear infinite;
+    -webkit-transform-origin: 50% 50%;
+    transform-origin: 50% 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+@keyframes move {from {transform: rotate(0deg);}
+    to {transform: rotate(360deg);}}
+@-webkit-keyframes move {from {-webkit-transform: rotate(0deg);}
+  to {-webkit-transform: rotate(360deg);}}
+
+.glitch {
+    color: white;
+    font-family: Roboto;
+}
